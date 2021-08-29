@@ -1,0 +1,236 @@
+10:28:11,792  INFO UserOperations,main:44 - login()
+10:28:11,800 DEBUG UserOperations,main:45 - 1234 1234 Student
+10:28:12,510  INFO StudentDAOOperations,main:69 - getStudent()
+10:28:12,514  INFO StudentDAOOperations,main:168 - getEnrolledCourses()
+10:36:36,595  INFO StudentOperation,main:235 - signUp()
+10:36:36,598 DEBUG StudentOperation,main:236 - stud1 stud1
+10:36:36,600  INFO StudentDAOOperations,main:280 - signUp()
+10:36:53,025  INFO UserOperations,main:44 - login()
+10:36:53,026 DEBUG UserOperations,main:45 - stud1 hello Student
+10:36:53,032  INFO StudentDAOOperations,main:69 - getStudent()
+10:36:53,035  INFO StudentDAOOperations,main:168 - getEnrolledCourses()
+10:37:06,893  INFO StudentOperation,main:38 - registerForSemester()
+10:37:06,894 DEBUG StudentOperation,main:39 - stud1 stud1
+10:37:06,895  INFO StudentDAOOperations,main:99 - setRegistrationStatus()
+10:37:46,903  INFO StudentOperation,main:90 - viewGradeCard()
+10:37:46,904 DEBUG StudentOperation,main:91 - stud1 stud1
+10:37:46,905  INFO StudentDAOOperations,main:191 - getGrades()
+10:37:56,543  INFO StudentDAOOperations,main:214 - getAllCourses()
+10:38:05,617  INFO StudentOperation,main:218 - viewEnrolledCourses()
+10:38:05,618 DEBUG StudentOperation,main:219 - stud1 stud1
+10:38:05,618  INFO StudentDAOOperations,main:233 - getAllEnrolledCourses()
+10:39:53,301  INFO UserOperations,main:44 - login()
+10:39:53,305 DEBUG UserOperations,main:45 - a1 123 Admin
+10:47:13,552  INFO StudentOperation,main:235 - signUp()
+10:47:13,553 DEBUG StudentOperation,main:236 - Student1 Student1
+10:47:13,554  INFO StudentDAOOperations,main:280 - signUp()
+10:47:36,207  INFO UserOperations,main:44 - login()
+10:47:36,207 DEBUG UserOperations,main:45 - Student1 Hello Student
+10:47:36,252  INFO StudentDAOOperations,main:69 - getStudent()
+10:47:36,255  INFO StudentDAOOperations,main:168 - getEnrolledCourses()
+10:48:40,909  INFO StudentOperation,main:38 - registerForSemester()
+10:48:40,909 DEBUG StudentOperation,main:39 - Student1 Student1
+10:48:40,910  INFO StudentDAOOperations,main:99 - setRegistrationStatus()
+10:49:10,976  INFO StudentOperation,main:121 - addCourse()
+10:49:10,977 DEBUG StudentOperation,main:122 - Student1 Student1 course1
+10:49:10,977  INFO StudentDAOOperations,main:256 - noOfStudentsEnrolled()
+10:49:10,978  INFO StudentDAOOperations,main:122 - addCourse()
+10:50:02,546  INFO StudentOperation,main:218 - viewEnrolledCourses()
+10:50:02,547 DEBUG StudentOperation,main:219 - Student1 Student1
+10:50:02,547  INFO StudentDAOOperations,main:233 - getAllEnrolledCourses()
+10:50:21,823  INFO StudentOperation,main:155 - dropCourse()
+10:50:21,823 DEBUG StudentOperation,main:156 - Student1 Student1 course1
+10:50:21,824  INFO StudentDAOOperations,main:146 - dropCourse()
+10:50:35,378  INFO StudentDAOOperations,main:33 - getBillStatus()
+10:50:35,381  INFO StudentOperation,main:176 - preConditionCheck()
+10:50:35,381 DEBUG StudentOperation,main:177 - Student1 Student1
+10:50:35,382  INFO StudentDAOOperations,main:168 - getEnrolledCourses()
+10:52:20,053  INFO UserOperations,main:44 - login()
+10:52:20,054 DEBUG UserOperations,main:45 - Student1 Hello Student
+10:52:20,139  INFO StudentDAOOperations,main:69 - getStudent()
+10:52:20,141  INFO StudentDAOOperations,main:168 - getEnrolledCourses()
+10:52:39,195  INFO StudentOperation,main:121 - addCourse()
+10:52:39,196 DEBUG StudentOperation,main:122 - Student1 Student1 course1
+10:52:39,197  INFO StudentDAOOperations,main:256 - noOfStudentsEnrolled()
+10:52:39,198  INFO StudentDAOOperations,main:122 - addCourse()
+10:52:52,673  INFO StudentOperation,main:218 - viewEnrolledCourses()
+10:52:52,674 DEBUG StudentOperation,main:219 - Student1 Student1
+10:52:52,674  INFO StudentDAOOperations,main:233 - getAllEnrolledCourses()
+10:53:26,410  INFO StudentDAOOperations,main:33 - getBillStatus()
+10:53:26,414  INFO StudentOperation,main:176 - preConditionCheck()
+10:53:26,415 DEBUG StudentOperation,main:177 - Student1 Student1
+10:53:26,416  INFO StudentDAOOperations,main:168 - getEnrolledCourses()
+11:04:49,031  INFO UserOperations,main:44 - login()
+11:04:49,036 DEBUG UserOperations,main:45 - Student1 Hello Student
+11:06:32,785  INFO UserOperations,main:44 - login()
+11:06:32,792 DEBUG UserOperations,main:45 - Student1 Hello Student
+11:22:14,940  INFO StudentOperation,main:235 - signUp()
+11:22:14,941 DEBUG StudentOperation,main:236 - ss2 ss2
+11:22:14,941  INFO StudentDAOOperations,main:282 - signUp()
+11:22:27,690  INFO UserOperations,main:36 - login()
+11:22:27,691 DEBUG UserOperations,main:37 - ss2 pass Student
+11:22:59,698  INFO UserOperations,main:36 - login()
+11:22:59,698 DEBUG UserOperations,main:37 - a1 123 Admin
+11:23:36,568  INFO UserOperations,main:36 - login()
+11:23:36,570 DEBUG UserOperations,main:37 - ss2 pass Student
+12:50:11,869  INFO UserOperations,main:36 - login()
+12:50:11,902 DEBUG UserOperations,main:37 - a1 123 Admin
+12:56:53,020  INFO UserOperations,main:36 - login()
+12:56:53,027 DEBUG UserOperations,main:37 - a1 123 Admin
+12:57:01,486  INFO AdminDao,main:93 - approveStudent()
+12:58:57,151  INFO UserOperations,main:36 - login()
+12:58:57,165 DEBUG UserOperations,main:37 - a1 123 Admin
+12:59:00,564  INFO AdminDao,main:93 - approveStudent()
+13:00:52,987  INFO UserOperations,main:36 - login()
+13:00:52,992 DEBUG UserOperations,main:37 - a1 123 Admin
+13:00:56,351  INFO AdminDao,main:93 - approveStudent()
+13:03:05,362  INFO UserOperations,main:36 - login()
+13:03:05,367 DEBUG UserOperations,main:37 - a1 123 Admin
+13:03:08,815  INFO AdminDao,main:93 - approveStudent()
+13:03:08,817 DEBUG AdminDao,main:94 - ss2
+13:04:05,198  INFO UserOperations,main:36 - login()
+13:04:05,202 DEBUG UserOperations,main:37 - a1 123 Admin
+13:04:08,871  INFO AdminDao,main:94 - approveStudent()
+13:04:08,872 DEBUG AdminDao,main:95 - ss2
+13:10:16,655  INFO UserOperations,main:36 - login()
+13:10:16,663 DEBUG UserOperations,main:37 - a1 123 Admin
+13:10:20,261  INFO AdminDao,main:95 - approveStudent()
+13:10:20,265 DEBUG AdminDao,main:96 - ss2
+13:10:53,303  INFO UserOperations,main:36 - login()
+13:10:53,305 DEBUG UserOperations,main:37 - ss3 123 Student
+13:11:19,265  INFO UserOperations,main:36 - login()
+13:11:19,266 DEBUG UserOperations,main:37 - ss2 123 s
+13:12:05,942  INFO UserOperations,main:36 - login()
+13:12:05,944 DEBUG UserOperations,main:37 - ss2 pass Student
+13:12:06,103  INFO StudentDAOOperations,main:71 - getStudent()
+13:12:06,118  INFO StudentDAOOperations,main:170 - getEnrolledCourses()
+13:20:04,940  INFO UserOperations,main:36 - login()
+13:20:04,948 DEBUG UserOperations,main:37 - a1 123 Admin
+13:20:19,185  INFO AdminDao,main:43 - addCourse()
+13:20:48,774  INFO AdminDao,main:73 - deleteCourse()
+13:21:12,489  INFO AdminDao,main:126 - addProfessor()
+13:22:07,218  INFO UserOperations,main:36 - login()
+13:22:07,219 DEBUG UserOperations,main:37 - p11 p11123 Professor
+13:22:07,338  INFO ProfessorDao,main:190 - getProfessor()
+13:22:18,841  INFO UserOperations,main:28 - enrollToCourse()
+13:22:18,843 DEBUG UserOperations,main:29 - pr pr p11 course1
+13:22:18,847  INFO ProfessorDao,main:45 - enrollToCourse()
+13:22:40,964  INFO UserOperations,main:93 - viewEnrolledStudents()
+13:22:40,964 DEBUG UserOperations,main:94 - course1
+13:22:40,967  INFO ProfessorDao,main:135 - viewEnrolledStudents()
+13:22:46,063  INFO UserOperations,main:113 - viewEnrolledCourses()
+13:22:46,064 DEBUG UserOperations,main:114 - pr pr p11
+13:22:46,065  INFO ProfessorDao,main:163 - viewEnrolledCourses()
+18:37:00,226  INFO UserOperations,main:36 - login()
+18:37:00,250 DEBUG UserOperations,main:37 - ss2 pass Student
+18:37:01,288  INFO StudentDAOOperations,main:72 - getStudent()
+18:37:01,295  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+18:37:07,946  INFO StudentDAOOperations,main:217 - getAllCourses()
+18:39:04,046  INFO UserOperations,main:36 - login()
+18:39:04,052 DEBUG UserOperations,main:37 - ss3 pass Student
+18:39:52,294  INFO UserOperations,main:36 - login()
+18:39:52,295 DEBUG UserOperations,main:37 - ss2 pass Student
+18:39:52,328  INFO StudentDAOOperations,main:72 - getStudent()
+18:39:52,333  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+18:39:55,493  INFO StudentDAOOperations,main:217 - getAllCourses()
+18:40:20,589  INFO UserOperations,main:36 - login()
+18:40:20,593 DEBUG UserOperations,main:37 - ss2 pass Student
+18:40:20,687  INFO StudentDAOOperations,main:72 - getStudent()
+18:40:20,693  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+18:40:24,594  INFO StudentDAOOperations,main:217 - getAllCourses()
+18:40:52,743  INFO UserOperations,main:36 - login()
+18:40:52,748 DEBUG UserOperations,main:37 - ss2 pass Student
+18:40:52,872  INFO StudentDAOOperations,main:72 - getStudent()
+18:40:52,877  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+18:40:56,248  INFO StudentDAOOperations,main:217 - getAllCourses()
+18:41:31,203  INFO UserOperations,main:36 - login()
+18:41:31,209 DEBUG UserOperations,main:37 - ss2 pass Student
+18:41:31,313  INFO StudentDAOOperations,main:72 - getStudent()
+18:41:31,319  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+18:41:32,741  INFO StudentDAOOperations,main:217 - getAllCourses()
+18:42:09,208  INFO UserOperations,main:36 - login()
+18:42:09,213 DEBUG UserOperations,main:37 - ss2 pass Student
+18:42:10,151  INFO StudentDAOOperations,main:72 - getStudent()
+18:42:10,158  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+18:42:29,482  INFO StudentOperation,main:39 - registerForSemester()
+18:42:29,483 DEBUG StudentOperation,main:40 - ss2 ss2
+18:42:29,484  INFO StudentDAOOperations,main:102 - setRegistrationStatus()
+18:42:32,773  INFO StudentOperation,main:234 - viewEnrolledCourses()
+18:42:32,774 DEBUG StudentOperation,main:235 - ss2 ss2
+18:42:32,775  INFO StudentDAOOperations,main:244 - getAllEnrolledCourses()
+18:50:04,339  INFO UserOperations,main:36 - login()
+18:50:04,343 DEBUG UserOperations,main:37 - ss1 pass Student
+18:51:20,933  INFO UserOperations,main:36 - login()
+18:51:20,937 DEBUG UserOperations,main:37 - ss1 pass Student
+18:53:35,706  INFO StudentOperation,main:251 - signUp()
+18:53:35,706 DEBUG StudentOperation,main:252 - he1 hello123
+18:53:35,707  INFO StudentDAOOperations,main:294 - signUp()
+18:54:47,150  INFO UserOperations,main:36 - login()
+18:54:47,151 DEBUG UserOperations,main:37 - he1 pass Student
+18:55:57,617  INFO UserOperations,main:36 - login()
+18:55:57,619 DEBUG UserOperations,main:37 - a1 123 Admin
+18:56:08,672  INFO AdminDao,main:99 - approveStudent()
+18:56:08,672 DEBUG AdminDao,main:100 - he1
+18:56:44,698  INFO AdminDao,main:162 - getGrades()
+18:57:44,989  INFO UserOperations,main:36 - login()
+18:57:44,995 DEBUG UserOperations,main:37 - a1 123 Admin
+18:57:52,705  INFO AdminDao,main:162 - getGrades()
+18:58:18,898  INFO AdminDao,main:43 - addCourse()
+19:00:17,152  INFO UserOperations,main:36 - login()
+19:00:17,153 DEBUG UserOperations,main:37 - p1 123 Professor
+19:00:17,198  INFO ProfessorDao,main:190 - getProfessor()
+19:00:29,334  INFO UserOperations,main:73 - viewCourses()
+19:00:29,336  INFO ProfessorDao,main:94 - viewCourses()
+19:02:11,808  INFO UserOperations,main:36 - login()
+19:02:11,809 DEBUG UserOperations,main:37 - p1 123 Professor
+19:02:12,215  INFO ProfessorDao,main:190 - getProfessor()
+19:02:15,627  INFO UserOperations,main:73 - viewCourses()
+19:02:15,628  INFO ProfessorDao,main:94 - viewCourses()
+19:02:38,488  INFO UserOperations,main:93 - viewEnrolledStudents()
+19:02:38,489 DEBUG UserOperations,main:94 - course1
+19:02:38,492  INFO ProfessorDao,main:135 - viewEnrolledStudents()
+19:02:46,312  INFO UserOperations,main:113 - viewEnrolledCourses()
+19:02:46,313 DEBUG UserOperations,main:114 - abc p1
+19:02:46,314  INFO ProfessorDao,main:163 - viewEnrolledCourses()
+19:16:20,683  INFO UserOperations,main:36 - login()
+19:16:20,709 DEBUG UserOperations,main:37 - ss2 123 Student
+19:16:39,028  INFO UserOperations,main:36 - login()
+19:16:39,029 DEBUG UserOperations,main:37 - ss2 pass Student
+19:16:39,208  INFO StudentDAOOperations,main:72 - getStudent()
+19:16:39,221  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:16:43,086  INFO StudentDAOOperations,main:36 - getBillStatus()
+19:16:43,107  INFO StudentOperation,main:192 - preConditionCheck()
+19:16:43,108 DEBUG StudentOperation,main:193 - ss2 ss2
+19:16:43,109  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:18:49,700  INFO UserOperations,main:36 - login()
+19:18:49,704 DEBUG UserOperations,main:37 - ss2 pass Student
+19:18:49,840  INFO StudentDAOOperations,main:72 - getStudent()
+19:18:49,846  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:18:52,152  INFO StudentDAOOperations,main:36 - getBillStatus()
+19:18:52,177  INFO StudentOperation,main:193 - preConditionCheck()
+19:18:52,178 DEBUG StudentOperation,main:194 - ss2 ss2
+19:18:52,179  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:21:17,641  INFO UserOperations,main:36 - login()
+19:21:17,646 DEBUG UserOperations,main:37 - ss2 pass Student
+19:21:17,781  INFO StudentDAOOperations,main:72 - getStudent()
+19:21:17,785  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:21:20,169  INFO StudentDAOOperations,main:36 - getBillStatus()
+19:21:20,209  INFO StudentOperation,main:193 - preConditionCheck()
+19:21:20,210 DEBUG StudentOperation,main:194 - ss2 ss2
+19:21:20,211  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:27:58,093  INFO UserOperations,main:36 - login()
+19:27:58,098 DEBUG UserOperations,main:37 - ss2 pass Student
+19:27:58,478  INFO StudentDAOOperations,main:72 - getStudent()
+19:27:58,484  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:28:00,438  INFO StudentDAOOperations,main:36 - getBillStatus()
+19:28:00,661  INFO StudentOperation,main:196 - preConditionCheck()
+19:28:00,662 DEBUG StudentOperation,main:197 - ss2 ss2
+19:28:00,662  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:29:57,545  INFO UserOperations,main:36 - login()
+19:29:57,550 DEBUG UserOperations,main:37 - ss2 pass Student
+19:29:57,646  INFO StudentDAOOperations,main:72 - getStudent()
+19:29:57,653  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
+19:30:01,042  INFO StudentDAOOperations,main:36 - getBillStatus()
+19:30:01,045  INFO StudentOperation,main:196 - preConditionCheck()
+19:30:01,046 DEBUG StudentOperation,main:197 - ss2 ss2
+19:30:01,047  INFO StudentDAOOperations,main:171 - getEnrolledCourses()
