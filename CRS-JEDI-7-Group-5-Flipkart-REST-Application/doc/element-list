@@ -1,0 +1,7 @@
+com.flipkart.app
+com.flipkart.bean
+com.flipkart.business
+com.flipkart.DAO
+com.flipkart.exceptions
+com.flipkart.restController
+com.flipkart.utils
