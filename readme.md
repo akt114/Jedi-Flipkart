@@ -1,5 +1,5 @@
-# Course Registration System
-##### Your struggle for Course Registration System ends here :)
+# 💥Course Registration System 💻
+##### Your struggle for Course Registration System ends here 😎
 ## Application
 CRS Application is available as :-
 
@@ -22,7 +22,7 @@ CRS Application is available as :-
 
 ## Tools & Technologies used :-
 
-CRS uses a number of open source projects to work properly:
+
 - Java
 - Jersey
 - Dropwizard
@@ -33,4 +33,4 @@ CRS uses a number of open source projects to work properly:
 - Git
 
 
-Happy Learning :)
+Happy Learning 🔥
