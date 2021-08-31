@@ -22,7 +22,7 @@ CRS Application is available as :-
 
 ## Tools & Technologies used :-
 
-CRS uses a number of open source projects to work properly:
+
 - Java
 - Jersey
 - Dropwizard
