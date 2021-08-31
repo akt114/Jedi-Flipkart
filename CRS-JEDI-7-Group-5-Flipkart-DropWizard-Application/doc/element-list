@@ -1,0 +1,7 @@
+com.dropwizard
+com.dropwizard.bean
+com.dropwizard.business
+com.dropwizard.DAO
+com.dropwizard.exceptions
+com.dropwizard.restController
+com.dropwizard.utils
