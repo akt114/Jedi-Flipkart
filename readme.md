@@ -1,5 +1,5 @@
-# Course Registration System
-##### Your struggle for Course Registration System ends here :)
+# 💥Course Registration System 💻
+##### Your struggle for Course Registration System ends here 😎
 ## Application
 CRS Application is available as :-
 
